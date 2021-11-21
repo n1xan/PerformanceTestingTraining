@@ -1,4 +1,4 @@
-##Web Fundamentals Practice
+## Web Fundamentals Practice
 
 1. Extract the following data from the initial html request:
  - DNS lookup time: 
