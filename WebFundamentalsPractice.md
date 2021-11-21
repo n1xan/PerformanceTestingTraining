@@ -1,4 +1,4 @@
-#Web Fundamentals Practice
+##Web Fundamentals Practice
 
 1. Extract the following data from the initial html request:
  - DNS lookup time: 
@@ -20,5 +20,7 @@
 4. Analyze the waterfall slope: 
 
 5. What is considered most valuable content for the user?
+ - At what time is it displayed?
+ - What requests are executed prior to it? 
 
 6. The critical requests path is: 1,2,3,..19
