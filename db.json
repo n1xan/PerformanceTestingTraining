@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Falcon 9",
+      "price": 50.00,
+      "currency": "EUR"
+    },
+    {
+      "id": 2,
+      "title": "Proton Rocket",
+      "price": 4500000.00,
+      "currency": "EUR"
+    },
+    {
+      "id": 3,
+      "title": "Proton-M",
+      "price": 15.00,
+      "currency": "EUR"
+    },
+    {
+      "id": 4,
+      "title": "Saturn V",
+      "price": 120.00,
+      "currency": "EUR"
+    },
+    {
+      "id": 5,
+      "title": "Falcon Heavy",
+      "price": 1200.00,
+      "currency": "EUR"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Top 10 Rockets today!",
+      "relatedProductId": 1,
+      "author": "anonymous"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "totally Agree",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "anonymous"
+  }
+}
