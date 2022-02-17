@@ -6,10 +6,12 @@
  - SSL Negotiation time:
  - TTFB:
  - Content download:
+ - Size of the HTML response:
 
 2. Determine the page-timing events:
  - DOMContentLoaded event:
  - Load event:
+ - Largest Contentful Paint time:
 
 3. Analyze the page load waterfall:
  - Number of Document requests:
